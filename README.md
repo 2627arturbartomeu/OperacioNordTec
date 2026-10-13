@@ -13,5 +13,19 @@ Ja ens em registrat a GitHub i em fet el nostre primer commit i push. Ara toca a
 ## Arquitectura
 ## Configuracions
 ## Incidencies i solucions
+> [!CAUTION]
+> Missatge d'error exacte
+
+> [!TIP]
+> Quan: fase i context.
+
+> [!IMPORTANT]
+> Causa: per què passava.
+
+> [!NOTE]
+> Solució: què vam fer.
+
+> [!IMPORTANT]
+> Detectada per: @usuari
 ## Decisions tecniques
 ## Reflexions tecniques
