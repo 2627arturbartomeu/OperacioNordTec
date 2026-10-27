@@ -10,6 +10,7 @@
 
 ## Estat del projecte
 Ja ens em registrat a GitHub i em fet el nostre primer commit i push. Ara toca acabar aquest **README**.
+Avui hem configurat la xarxa en les tres màquines ubuntu i hem configurat el NAT per a poder sortir cap a fora. Ja tenim la xarxa montada.
 ## Arquitectura
 ## Configuracions
 ## Incidencies i solucions
