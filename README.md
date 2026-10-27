@@ -11,6 +11,13 @@
 ## Estat del projecte
 Ja ens em registrat a GitHub i em fet el nostre primer commit i push. Ara toca acabar aquest **README**.
 Avui hem configurat la xarxa en les tres màquines ubuntu i hem configurat el NAT per a poder sortir cap a fora. Ja tenim la xarxa montada.
+
+Xarxes de cada màquina:
+- Firewall: 192.168.120.163, 10.2.152.187, 10.0.0.1, 192.168.10.1, 192.168.20.1
+- Ubuntu lab: 192.168.10.2
+- Ubuntu desktop: 192.168.20.2
+
+La 10 es ubuntu lab i la 20 es ubuntu desktop, la altra es la de firewall.
 ## Arquitectura
 ## Configuracions
 ## Incidencies i solucions
